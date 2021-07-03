@@ -1,3 +1,9 @@
 pyttsx3
 speechRecognition
 wikipedia
+pyautogui
+pustil
+pyjokes
+pywhatkit
+wolframalpha
+winshell
